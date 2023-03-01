@@ -1,1 +1,2 @@
-# 05.LINQ-Exercises-MusicHub-6.0
+# LINQExercises
+Exercises from SoftUni C# Entity Framework Core Course (Lecture: LINQ Exercise)
